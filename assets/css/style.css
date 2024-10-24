@@ -947,6 +947,63 @@
     border-top: 1px solid rgba(255, 255, 255, 0.08);
     background: var(--bs-dark);
 }
+
+
 /*** copyright end ***/
 
+
+.portfolio-item .portfolio-img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    bottom: 0px;
+    left: 0;
+    transition: .5s;
+  }
+  
+  .portfolio-item:hover .portfolio-img {
+    bottom: 100%;
+  }
+  
+  .portfolio-item .portfolio-text {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: -100%;
+    left: 0;
+    transition: .5s;
+  }
+  
+  .portfolio-item:hover .portfolio-text {
+    bottom: 0;
+  }
+
+  .portfolio-item .portfolio-img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    bottom: 0px;
+    left: 0;
+    transition: .5s;
+  }
+  
+  .portfolio-item:hover .portfolio-img {
+    bottom: 100%;
+  }
+  
+  .portfolio-item .portfolio-text {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: -100%;
+    left: 0;
+    transition: .5s;
+  }
+  
+  .portfolio-item:hover .portfolio-text {
+    bottom: 0;
+  }  
+  .react-image-lightbox__loader {
+    display: none; /* or use visibility: hidden; */
+  }
 
