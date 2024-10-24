@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PraveenBuilder/static/css/main.2f721396.css",
-    "main.js": "/PraveenBuilder/static/js/main.e1ebc975.js",
+    "main.js": "/PraveenBuilder/static/js/main.f5c78b68.js",
     "static/js/453.1003a9c7.chunk.js": "/PraveenBuilder/static/js/453.1003a9c7.chunk.js",
     "index.html": "/PraveenBuilder/index.html",
     "main.2f721396.css.map": "/PraveenBuilder/static/css/main.2f721396.css.map",
-    "main.e1ebc975.js.map": "/PraveenBuilder/static/js/main.e1ebc975.js.map",
+    "main.f5c78b68.js.map": "/PraveenBuilder/static/js/main.f5c78b68.js.map",
     "453.1003a9c7.chunk.js.map": "/PraveenBuilder/static/js/453.1003a9c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f721396.css",
-    "static/js/main.e1ebc975.js"
+    "static/js/main.f5c78b68.js"
   ]
 }
