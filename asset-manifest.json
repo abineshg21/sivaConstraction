@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sivaConstraction/static/css/main.2f721396.css",
-    "main.js": "/sivaConstraction/static/js/main.4f9c5931.js",
+    "main.js": "/sivaConstraction/static/js/main.c9ac8169.js",
     "static/js/453.1003a9c7.chunk.js": "/sivaConstraction/static/js/453.1003a9c7.chunk.js",
     "index.html": "/sivaConstraction/index.html",
     "main.2f721396.css.map": "/sivaConstraction/static/css/main.2f721396.css.map",
-    "main.4f9c5931.js.map": "/sivaConstraction/static/js/main.4f9c5931.js.map",
+    "main.c9ac8169.js.map": "/sivaConstraction/static/js/main.c9ac8169.js.map",
     "453.1003a9c7.chunk.js.map": "/sivaConstraction/static/js/453.1003a9c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f721396.css",
-    "static/js/main.4f9c5931.js"
+    "static/js/main.c9ac8169.js"
   ]
 }
